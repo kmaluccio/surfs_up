@@ -11,11 +11,11 @@ The purpose of this weather data analysis is to determine whether or not investi
 
 See the summary statistics for the month of June below:
 
-![June Temp Stats](https://github.com/kmaluccio/surfs_up/blob/main/June-weather-stats.png)
+![June summary stats](https://github.com/kmaluccio/surfs_up/blob/main/June-weather-stats.png)
 
 See the summary statistics for the month of December below:
 
-![December Stats](https://github.com/kmaluccio/surfs_up/blob/main/Dec-weather-stats.png)
+![December summary stats](https://github.com/kmaluccio/surfs_up/blob/main/Dec-weather-stats.png)
 
 - December temperatures range from 56 degrees to 83 degrees with an average of 71 degrees, therefore:
 	- the temperatures are a good range for surfing as long as there are not severe storms for long amounts of time
