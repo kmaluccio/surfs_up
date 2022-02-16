@@ -8,10 +8,13 @@ The purpose of this weather data analysis is to determine whether or not investi
 - June temperatures range from 64 degrees to 85 degrees with an average temperature of about 75 degrees; therefore: 
 	- This is a good temperature range for surfers (as long as there are not thunderstorms every day), so most days people at the beach may be interested in surfing or surfers may be attracted to the area
 	- A surf shop would do well during the month of June based on the weather data in this location
+
 See the summary statistics for the month of June below:
+
 ![June Temp Stats](https://github.com/kmaluccio/surfs_up/blob/main/June-weather-stats.png)
 
 See the summary statistics for the month of December below:
+
 ![December Stats](https://github.com/kmaluccio/surfs_up/blob/main/Dec-weather-stats.png)
 
 - December temperatures range from 56 degrees to 83 degrees with an average of 71 degrees, therefore:
